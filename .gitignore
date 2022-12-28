@@ -94,7 +94,7 @@ local PredictionValue = 0.1413
         end
         placemarker.Transparency = 0.75
         if Settings.rewrittenmain.DOT then
-        makemarker(placemarker, placemarker, Color3.fromRGB(232, 186, 200), 0.40, 0)
+        makemarker(placemarker, placemarker, Color3.fromRGB(255, 7, 0)
         end
     end)
  
